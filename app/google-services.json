@@ -1,0 +1,77 @@
+{
+  "project_info": {
+    "project_number": "854120193623",
+    "firebase_url": "https://calenderapp-c1fe5.firebaseio.com",
+    "project_id": "calenderapp-c1fe5",
+    "storage_bucket": "calenderapp-c1fe5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:854120193623:android:bfab707a2051288cc68d12",
+        "android_client_info": {
+          "package_name": "com.black.calenderapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "854120193623-olmede4vcef8prfik8h0g6sr7ogamupj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.black.calenderapp",
+            "certificate_hash": "dc1759f007085b80163db92242bc6e97a316f582"
+          }
+        },
+        {
+          "client_id": "854120193623-36nipil27enrjb989d3h3jkh4jl5peal.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuXtgXqntxrCCG-7rK3r6uKvchgmbSUZk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "854120193623-36nipil27enrjb989d3h3jkh4jl5peal.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:854120193623:android:422a593f261251d7c68d12",
+        "android_client_info": {
+          "package_name": "com.example.calendarapp2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "854120193623-36nipil27enrjb989d3h3jkh4jl5peal.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuXtgXqntxrCCG-7rK3r6uKvchgmbSUZk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "854120193623-36nipil27enrjb989d3h3jkh4jl5peal.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
